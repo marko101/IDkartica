@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ID kartica</string>
+    <string name="telefon">+381646624758</string>
+    <string name="instagram">\@marko100</string>
+    <string name="moj_email">markosanjaema@gmail.com</string>
+    <string name="moje_ime">Marko Stojanović</string>
+    <string name="moj_naslov">Programer</string>
+</resources>
